@@ -1,0 +1,16 @@
+header img{
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+
+}
+body{
+background-image: url(logo192.png);
+}
+
+footer{
+    background-color: blue;
+    color: aliceblue;
+    display: block;
+    align-items: center;
+}
